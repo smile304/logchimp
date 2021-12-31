@@ -2,3 +2,4 @@
 0785. ✨ feat: enable dark mode toggle
 0497. 🔧 refactor: refactor quiz grading logic
 0352. ✨ feat: add export to CSV option
+0948. 🐛 fix: fix broken CSS in mobile view
