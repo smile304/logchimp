@@ -8,3 +8,4 @@
 0438. ♻️ chore: bump dependencies
 0961. 📚 docs: add API usage examples
 0268. 🐛 fix: prevent crash on empty input
+0875. ✅ test: increase coverage on auth module
