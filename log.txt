@@ -11,3 +11,4 @@
 0875. ✅ test: increase coverage on auth module
 0581. ✅ test: add integration test for /submit endpoint
 0637. 🎨 style: apply consistent indentation
+0330. ✅ test: test user registration edge cases
