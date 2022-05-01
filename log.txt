@@ -13,3 +13,4 @@
 0637. 🎨 style: apply consistent indentation
 0330. ✅ test: test user registration edge cases
 0358. 🚀 perf: reduce image load time
+0492. 🎨 style: remove trailing whitespace
