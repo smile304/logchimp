@@ -15,3 +15,4 @@
 0358. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
 0494. 🎨 style: rename variables for clarity
+0651. ✨ feat: enable dark mode toggle
