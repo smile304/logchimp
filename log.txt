@@ -20,3 +20,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0547. 📚 docs: write FAQ section
 0847. ♻️ chore: clean up unused files
+0630. 🚀 perf: lazy-load components
