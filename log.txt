@@ -21,3 +21,4 @@
 0547. 📚 docs: write FAQ section
 0847. ♻️ chore: clean up unused files
 0630. 🚀 perf: lazy-load components
+0846. ✨ feat: implement quiz timer feature
