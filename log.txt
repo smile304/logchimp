@@ -25,3 +25,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0708. ✅ test: add integration test for /submit endpoint
 0722. 📚 docs: add API usage examples
+0237. 🎨 style: standardize quote style
