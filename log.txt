@@ -32,3 +32,4 @@
 0964. ♻️ chore: clean up unused files
 0524. ♻️ chore: rename env.example
 0122. ✨ feat: support email verification
+0488. ♻️ chore: add GitHub actions badge
