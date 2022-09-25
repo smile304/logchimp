@@ -40,3 +40,4 @@
 0892. ✅ test: add unit test for quiz service
 0640. ♻️ chore: bump dependencies
 0377. ✨ feat: add user authentication
+0113. ✨ feat: add user authentication
