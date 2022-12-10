@@ -51,3 +51,4 @@
 0859. ✨ feat: create admin dashboard
 0983. 🔧 refactor: split large controller into smaller functions
 0299. 🐛 fix: resolve issue with date parsing
+0374. 🎨 style: standardize quote style
