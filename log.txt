@@ -54,3 +54,4 @@
 0374. 🎨 style: standardize quote style
 0141. 📚 docs: document token refresh logic
 0803. ✅ test: mock database connection in test suite
+0970. ♻️ chore: update .gitignore
