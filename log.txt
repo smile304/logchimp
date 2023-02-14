@@ -58,3 +58,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0085. ✨ feat: support email verification
 0551. 📚 docs: write FAQ section
+0433. 🐛 fix: prevent crash on empty input
