@@ -59,3 +59,4 @@
 0085. ✨ feat: support email verification
 0551. 📚 docs: write FAQ section
 0433. 🐛 fix: prevent crash on empty input
+0079. 🐛 fix: correct typo in registration form
