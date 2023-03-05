@@ -61,3 +61,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0079. 🐛 fix: correct typo in registration form
 0171. 🐛 fix: fix broken CSS in mobile view
+0980. 🎨 style: reformat files with black
