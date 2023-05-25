@@ -73,3 +73,4 @@
 0591. ♻️ chore: clean up unused files
 0476. 🚀 perf: reduce image load time
 0893. 🐛 fix: handle 500 error in quiz API
+0597. 🚀 perf: cache repeated calculations
