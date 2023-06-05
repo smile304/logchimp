@@ -75,3 +75,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0597. 🚀 perf: cache repeated calculations
 0689. 🎨 style: reformat files with black
+0704. 🚀 perf: cache repeated calculations
