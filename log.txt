@@ -79,3 +79,4 @@
 0884. 📚 docs: clarify environment setup
 0560. 🎨 style: rename variables for clarity
 0775. 🐛 fix: fix null pointer exception on login
+0942. ✅ test: increase coverage on auth module
