@@ -81,3 +81,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0942. ✅ test: increase coverage on auth module
 0052. 🎨 style: standardize quote style
+0745. ✅ test: add unit test for quiz service
