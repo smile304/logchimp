@@ -90,3 +90,4 @@
 0518. ✨ feat: support email verification
 0530. 🔧 refactor: refactor quiz grading logic
 0826. 📚 docs: clarify environment setup
+0990. ♻️ chore: rename env.example
