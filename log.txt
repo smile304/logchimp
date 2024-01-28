@@ -97,3 +97,4 @@
 0904. ✨ feat: implement quiz timer feature
 0346. ✅ test: mock database connection in test suite
 0897. 🐛 fix: prevent crash on empty input
+0077. ♻️ chore: rename env.example
