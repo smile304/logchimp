@@ -104,3 +104,4 @@
 0950. 🎨 style: reformat files with black
 0473. 📚 docs: write FAQ section
 0143. ✨ feat: implement quiz timer feature
+0574. ✨ feat: enable dark mode toggle
