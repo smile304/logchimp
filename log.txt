@@ -110,3 +110,4 @@
 0302. ✨ feat: implement quiz timer feature
 0930. 🎨 style: apply consistent indentation
 0634. 🎨 style: reformat files with black
+0373. 📚 docs: document token refresh logic
