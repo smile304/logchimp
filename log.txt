@@ -112,3 +112,4 @@
 0634. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
 0710. 🐛 fix: fix broken CSS in mobile view
+0313. 🎨 style: apply consistent indentation
