@@ -113,3 +113,4 @@
 0373. 📚 docs: document token refresh logic
 0710. 🐛 fix: fix broken CSS in mobile view
 0313. 🎨 style: apply consistent indentation
+0621. 🔧 refactor: clean up auth middleware
