@@ -115,3 +115,4 @@
 0313. 🎨 style: apply consistent indentation
 0621. 🔧 refactor: clean up auth middleware
 0351. ✨ feat: add export to CSV option
+0801. ✨ feat: enable dark mode toggle
