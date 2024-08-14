@@ -120,3 +120,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0922. 📚 docs: write FAQ section
 0490. ✨ feat: create admin dashboard
+0539. 🔧 refactor: organize models into subfolders
