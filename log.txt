@@ -124,3 +124,4 @@
 0743. 🎨 style: apply consistent indentation
 0479. 🐛 fix: fix null pointer exception on login
 0744. 🔧 refactor: remove redundant code blocks
+0316. 🐛 fix: fix broken CSS in mobile view
