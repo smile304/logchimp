@@ -129,3 +129,4 @@
 0256. ✅ test: mock database connection in test suite
 0690. 🚀 perf: lazy-load components
 0655. 🚀 perf: cache repeated calculations
+0677. 📚 docs: add API usage examples
