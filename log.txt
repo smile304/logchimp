@@ -133,3 +133,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0025. 🚀 perf: optimize database query for quiz results
 0317. ✅ test: test user registration edge cases
+0222. 🐛 fix: handle 500 error in quiz API
