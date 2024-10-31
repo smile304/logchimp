@@ -135,3 +135,4 @@
 0317. ✅ test: test user registration edge cases
 0222. 🐛 fix: handle 500 error in quiz API
 0390. 🎨 style: standardize quote style
+0752. ✅ test: add integration test for /submit endpoint
