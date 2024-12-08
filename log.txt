@@ -137,3 +137,4 @@
 0390. 🎨 style: standardize quote style
 0752. ✅ test: add integration test for /submit endpoint
 0388. 🎨 style: reformat files with black
+0335. ♻️ chore: update .gitignore
