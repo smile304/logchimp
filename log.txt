@@ -143,3 +143,4 @@
 0784. ♻️ chore: clean up unused files
 0757. 🔧 refactor: remove redundant code blocks
 0699. 🎨 style: standardize quote style
+0063. 🐛 fix: handle 500 error in quiz API
