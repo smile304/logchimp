@@ -148,3 +148,4 @@
 0709. ♻️ chore: bump dependencies
 0008. 🚀 perf: reduce image load time
 0958. 🐛 fix: prevent crash on empty input
+0212. 🎨 style: standardize quote style
