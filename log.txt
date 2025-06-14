@@ -156,3 +156,4 @@
 0844. 📚 docs: update README with setup steps
 0907. 🔧 refactor: split large controller into smaller functions
 0191. 🔧 refactor: refactor quiz grading logic
+0368. 🚀 perf: lazy-load components
