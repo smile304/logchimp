@@ -168,3 +168,4 @@
 0102. ✨ feat: support email verification
 0821. ✅ test: add integration test for /submit endpoint
 0721. 🚀 perf: optimize database query for quiz results
+0058. ♻️ chore: add GitHub actions badge
