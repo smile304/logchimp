@@ -171,3 +171,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0543. ✨ feat: support email verification
 0080. ✨ feat: support email verification
+0536. ✨ feat: add user authentication
