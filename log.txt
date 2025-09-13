@@ -173,3 +173,4 @@
 0080. ✨ feat: support email verification
 0536. ✨ feat: add user authentication
 0863. 🐛 fix: correct typo in registration form
+0652. 🔧 refactor: organize models into subfolders
