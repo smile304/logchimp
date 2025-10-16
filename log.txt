@@ -178,3 +178,4 @@
 0194. 🎨 style: standardize quote style
 0649. 📚 docs: update README with setup steps
 0284. ✨ feat: implement quiz timer feature
+0110. 🐛 fix: prevent crash on empty input
