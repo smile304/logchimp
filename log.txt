@@ -179,3 +179,4 @@
 0649. 📚 docs: update README with setup steps
 0284. ✨ feat: implement quiz timer feature
 0110. 🐛 fix: prevent crash on empty input
+0774. 🔧 refactor: refactor quiz grading logic
