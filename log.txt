@@ -181,3 +181,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0774. 🔧 refactor: refactor quiz grading logic
 0810. 🔧 refactor: refactor quiz grading logic
+0732. ♻️ chore: add GitHub actions badge
