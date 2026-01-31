@@ -189,3 +189,4 @@
 0411. ✅ test: add unit test for quiz service
 0705. 🔧 refactor: refactor quiz grading logic
 0275. 🎨 style: standardize quote style
+0573. ✅ test: add integration test for /submit endpoint
